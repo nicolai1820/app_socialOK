@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Soltero",
+      "id": "1"
+    },
+    {
+      "name": "Casado",
+      "id": "2"
+    },
+    {
+      "name": "Separado",
+      "id": "3"
+    },
+    {
+      "name": "Unión libre",
+      "id": "4"
+    }
+  ]

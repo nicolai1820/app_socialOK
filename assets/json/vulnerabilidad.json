@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Dezplasado",
+      "id": "1"
+    },
+    {
+      "name": "Víctima de conflicto",
+      "id": "2"
+    },
+    {
+      "name": "Desmovilizado",
+      "id": "3"
+    },
+    {
+      "name": "Cabeza de familia",
+      "id": "4"
+    },
+    {
+      "name": "Discapacidad",
+      "id": "5"
+    },
+    {
+      "name": "No aplica",
+      "id": "6"
+    }
+  ]

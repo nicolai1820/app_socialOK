@@ -1,0 +1,26 @@
+[
+    {
+      "name": "Indigena",
+      "id": "1"
+    },
+    {
+      "name": "Rrom(gitano)",
+      "id": "2"
+    },
+    {
+      "name": "Raizal (San andrés)",
+      "id": "3"
+    },
+    {
+      "name": "Palenquero",
+      "id": "4"
+    },
+    {
+      "name": "Negro",
+      "id": "5"
+    },
+    {
+      "name": "Ninguno",
+      "id": "6"
+    }
+  ]
